@@ -1,0 +1,2 @@
+# OldMemoryCoreForGTNH
+用于存储gtnh计算程序的一些库函数
